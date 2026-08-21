@@ -1,0 +1,6 @@
+{
+  "name": "Shri Ramkrishna National Youth Computer Centre",
+  "description": "A modern institute management and online admission website for Shri Ramkrishna National Youth Computer Centre with student and admin portals.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
